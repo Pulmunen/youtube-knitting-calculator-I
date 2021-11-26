@@ -2,10 +2,21 @@ body{
     color:rgb(41, 40, 40);
     font-family: 'Tiresias', sans-serif;
 }
-/* @font-face {
-    font-family: 'Tires';
-    src: url(Tiresias_Infofont.ttf);
-  } */
+
+header {
+    min-width:100%;
+    height: 30vh;
+    background-color:rgba(114, 7, 214, 0.151);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+header h2{
+    font-size:3rem;
+    max-width:90%;
+    text-align:center;
+}
 
 .container{
     max-width:650px;
