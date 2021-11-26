@@ -1,0 +1,38 @@
+body{
+    color:rgb(41, 40, 40);
+    font-family: 'Tiresias', sans-serif;
+}
+/* @font-face {
+    font-family: 'Tires';
+    src: url(Tiresias_Infofont.ttf);
+  } */
+
+.container{
+    max-width:650px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 auto;
+}
+
+h1, h2, h3{
+    color:rgb(114, 7, 214);
+}
+
+h1 {
+    font-size:1.6rem;
+}
+
+h2 {
+    font-size:1.4rem;
+}
+
+h3 {
+    font-size:1.2rem;
+}
+
+a{
+    color:rgb(81, 141, 13)
+}
+
+li{
+    list-style:none;
+}
